@@ -1,20 +1,32 @@
-<<<<<<< HEAD
-# React + Vite
+# Nova Era Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte do **Nova Era Website**, um projeto desenvolvido para praticar e aprimorar habilidades em HTML, CSS, JavaScript, React e Git/GitHub.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+- **REACT**
+- **JavaScript**
+- **Git & GitHub**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Estrutura do Projeto
+- `index.html` – Estrutura principal do site
+- `style.css` – Estilos e layout da página
+- `script.js` – Funcionalidades e interações
 
-## React Compiler
+## 📦 Como Clonar o Projeto
+```bash
+git clone https://github.com/Nust7/nova-era-website.git
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧩 Objetivo do Projeto
+Este projeto tem como objetivo demonstrar práticas modernas de desenvolvimento web e servir como parte do portfólio profissional.
 
-## Expanding the ESLint configuration
+## 📌 Status
+✔️ Projeto iniciado — melhorias contínuas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# nova-era-website
->>>>>>> 50579a27b17cb60bb87a3c6188865fe8178b0181
+## 📄 Licença
+Este projeto é de uso livre para fins educativos.
+
+---
+✦ Criado por **Filipe Dourado (Nust7)**
