@@ -10,9 +10,8 @@ Este repositório contém o código-fonte do **Nova Era Website**, um projeto de
 - **Git & GitHub**
 
 ## 📁 Estrutura do Projeto
-- `index.html` – Estrutura principal do site
-- `style.css` – Estilos e layout da página
-- `script.js` – Funcionalidades e interações
+- `React.jsx` – Estrutura principal do site
+- `global.css` – Estilos e layout da página
 
 ## 📦 Como Clonar o Projeto
 ```bash
